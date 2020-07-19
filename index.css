@@ -1,0 +1,93 @@
+.center {
+    display: block;
+    padding-top: 109px;
+    margin-left: auto;
+    margin-right: auto;
+
+    }
+    input[type=text]{
+        
+        display:block;
+        background-image:url(https://www.w3schools.com/css/searchicon.png);
+        background-position: 6px 6px;
+
+        background-repeat: no-repeat;
+        padding-left: 40px;
+        border: 1px solid #dac7c7;
+        border-radius: 10px;
+        text-align: justify;
+        margin-top:40px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 372px;
+        outline: none;
+
+    }
+    input[type=text]:hover{
+       
+        box-shadow: 3px 5px grey;
+    }
+        #n2{
+                display: inline;
+
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin-left: 40%;
+
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+
+             }
+    #n3{
+                display: inline;
+
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin-left: 11px;
+
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+
+            }
+            #anchor1{
+                display: inline-block;
+                padding-top: 2%;
+        
+       margin-left: 80%;
+       color: black;
+       text-decoration: none;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 13px;
+      
+    }
+    #anchor2{
+        display: inline-block;
+        padding-top: 2%;
+        margin-left: 11px;
+       color:black;
+       text-decoration: none;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 13px;
+    }
+    #anchor1:hover,#anchor2:hover{
+        opacity: 70%;
+        text-decoration: underline;
+    }
